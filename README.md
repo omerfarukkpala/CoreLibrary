@@ -4,7 +4,7 @@ Bu repository, Fatih Çakıroğlu'nun  .NET Core Developer - Bilinmesi Gereken K
 ## Kurs Detayları          
                
 Bu kurs aşağıdaki konuları içermektedir:          
-           
+            
 - SOLID Prensipleri   
 - Kullanılan Kütüphaneler  
 - Hata Yönetimi ve Sayfaları
