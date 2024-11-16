@@ -8,7 +8,7 @@ Bu kurs aşağıdaki konuları içermektedir:
 - SOLID Prensipleri   
 - Kullanılan Kütüphaneler  
 - Hata Yönetimi ve Sayfaları
-- Loglama 
+- Loglama  
 - Swagger ile Ayrıntılı Dökümantasyon
 - Environment Ortamları
 ## Kullanılan Kütüphaneler ve Konu Başlıkları
