@@ -11,7 +11,7 @@ Bu kurs aşağıdaki konuları içermektedir:
 - Loglama  
 - Swagger ile Ayrıntılı Dökümantasyon
 - Environment Ortamları
-## Kullanılan Kütüphaneler ve Konu Başlıkları
+## Kullanılan Kütüphaneler ve Konu Başlıkları 
 
 Bu kurs kapsamında çeşitli kütüphanelerle çalıştık ve bunları gerçek senaryolar üzerinde uyguladık. İşte bazı kullanılan kütüphaneler:
 
