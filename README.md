@@ -1,7 +1,7 @@
   # .NET Core Developer - Bilinmesi Gereken Kütüphaneler Kursu                                                                        
                                      
 Bu repository, Fatih Çakıroğlu'nun  .NET Core Developer - Bilinmesi Gereken Kütüphaneler kursunu içeriğini göstermektedir. Bu kurs boyunca SOLID prensipleri üzerine odaklandık ve çeşitli kütüphaneleri kullanarak gerçek senaryolar üzerinde uygulamalar geliştirdik.
-## Kurs Detayları                     
+## Kurs Detayları                      
                                 
 Bu kurs aşağıdaki konuları içermektedir:                 
                   
